@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970993254671",
+    "project_id": "taskly-4cb5a",
+    "storage_bucket": "taskly-4cb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970993254671:android:e37c8fb2e612fb1415fe7a",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOK2O5uc-T1OcucdNKw2AvUDHs_7CSY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
